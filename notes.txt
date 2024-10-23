@@ -1,0 +1,11 @@
+typeof : typeof is an operator in JavaScript that returns a string indicating the data type of a given value
+         or variable.  It's commonly used to check the type of a value at runtime.
+split  : splits a string into an array of substring
+
+deign a notepad  with menu file edit view and help. when you click the file 
+menu it should show the submenus like new open and save.
+Notepad should have horiontal nd vertical  scrollbar
+
+
+WAP to insert user informtion in table assume your
+ own credential and user atributes
